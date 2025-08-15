@@ -1,0 +1,159 @@
+{
+    "user-details": {
+        "userId": "doejohn",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "John.DOE@ec.europa.eu"
+    },
+    "users": [],
+    "notifications": [
+        {
+            "id": "58dddce2-b3ac-4690-bb2e-786b071b5108",
+            "createdDate": "2025-07-16T09:32:25.114Z",
+            "lastModifiedDate": "2025-07-16T09:32:25.114Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "e0326b4c-ad28-4faf-aac8-557bde58dd30",
+            "tags": [
+                "important"
+            ],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "Alexandru-Iulian PRISACARIU stopped impersonating you",
+                    "body": {
+                        "content": "Alexandru-Iulian PRISACARIU (Alexandru-Iulian.PRISACARIU@ext.ec.europa.eu) stopped impersonating you (Nuno SOUSA) on MyWorkplace (Development Environment) at 16/07/2025 11:32:24 CEST.</br></br><b>The reason for impersonation:</b> test .</br></br>Read more about impersonation here:</br><a href=\"https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation\">https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation<a/>",
+                        "url": ""
+                    },
+                    "summary": "Summary"
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-16"
+        },
+        {
+            "id": "bd37cb14-8e6a-46cd-8553-7c79526d03c1",
+            "createdDate": "2025-07-16T09:32:24.206Z",
+            "lastModifiedDate": "2025-07-16T09:32:24.206Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "e0d1c702-ba07-47fc-a152-a39d8b09734d",
+            "tags": [
+                "important"
+            ],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "Alexandru-Iulian PRISACARIU stopped impersonating you",
+                    "body": {
+                        "content": "Alexandru-Iulian PRISACARIU (Alexandru-Iulian.PRISACARIU@ext.ec.europa.eu) stopped impersonating you (Nuno SOUSA) on MyWorkplace (Development Environment) at 16/07/2025 11:32:24 CEST.</br></br><b>The reason for impersonation:</b> test .</br></br>Read more about impersonation here:</br><a href=\"https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation\">https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation<a/>",
+                        "url": ""
+                    },
+                    "summary": "Summary"
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-16"
+        },
+        {
+            "id": "6d5bb1f8-6d28-444a-8188-a7ad39152f7c",
+            "createdDate": "2025-07-16T09:31:28.587Z",
+            "lastModifiedDate": "2025-07-16T09:31:28.587Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "e0326b4c-ad28-4faf-aac8-557bde58dd30",
+            "tags": [
+                "important"
+            ],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "Alexandru-Iulian PRISACARIU started impersonating you",
+                    "body": {
+                        "content": "Alexandru-Iulian PRISACARIU (Alexandru-Iulian.PRISACARIU@ext.ec.europa.eu) started impersonating you (Nuno SOUSA) on MyWorkplace (Development Environment) at 16/07/2025 11:31:28 CEST.</br></br><b>The reason for impersonation:</b> test .</br></br>Impersonation is a feature of MyWorkplace that allows specific Support (Helpdesk) staff to view non-confidential MyWorkplace screens as you, the end-user, view them.</br></br>This allows them to provide help in a more efficient manner. You will always be notified when Impersonation is used and by whom. You will also be notified when the session ends.</br></br>Read more about impersonation here:</br><a href=\"https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation\">https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation<a/>",
+                        "url": ""
+                    },
+                    "summary": "Summary"
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-16"
+        },
+        {
+            "id": "f81bcde4-f684-424c-9bd1-f7e04309cfbb",
+            "createdDate": "2025-07-16T09:31:28.501Z",
+            "lastModifiedDate": "2025-07-16T09:31:28.501Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "e0d1c702-ba07-47fc-a152-a39d8b09734d",
+            "tags": [
+                "important"
+            ],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "Alexandru-Iulian PRISACARIU started impersonating you",
+                    "body": {
+                        "content": "Alexandru-Iulian PRISACARIU (Alexandru-Iulian.PRISACARIU@ext.ec.europa.eu) started impersonating you (Nuno SOUSA) on MyWorkplace (Development Environment) at 16/07/2025 11:31:28 CEST.</br></br><b>The reason for impersonation:</b> test .</br></br>Impersonation is a feature of MyWorkplace that allows specific Support (Helpdesk) staff to view non-confidential MyWorkplace screens as you, the end-user, view them.</br></br>This allows them to provide help in a more efficient manner. You will always be notified when Impersonation is used and by whom. You will also be notified when the session ends.</br></br>Read more about impersonation here:</br><a href=\"https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation\">https://webgate.ec.europa.eu/fpfis/wikis/display/myworkplace/Impersonation<a/>",
+                        "url": ""
+                    },
+                    "summary": "Summary"
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-16"
+        },
+        {
+            "id": "42ee5102-4924-458d-a7fc-c07afd4d01ec",
+            "createdDate": "2025-06-30T23:30:02.045Z",
+            "lastModifiedDate": "2025-06-30T23:30:02.045Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "b88c8fbd-1b13-4d1e-bd13-9f4070203f3c",
+            "tags": [],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "OTG - Monthly statistics report of 2025-07-01 01:30:00 - acc",
+                    "body": {
+                        "content": "Monthly statistics report of 2025-07-01 01:30:00",
+                        "url": ""
+                    },
+                    "summary": ""
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-01"
+        },
+        {
+            "id": "eb075b70-4c0e-4361-b9da-b39a5c6eb273",
+            "createdDate": "2025-06-30T23:30:01.615Z",
+            "lastModifiedDate": "2025-06-30T23:30:01.615Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "b88c8fbd-1b13-4d1e-bd13-9f4070203f3c",
+            "tags": [],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "OTG - Monthly statistics report of 2025-07-01 01:30:00 - acc",
+                    "body": {
+                        "content": "Monthly statistics report of 2025-07-01 01:30:00",
+                        "url": ""
+                    },
+                    "summary": ""
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-01"
+        },
+        {
+            "id": "744caea3-b20b-49fc-856f-ed4d11139daa",
+            "createdDate": "2025-06-30T23:30:01.070Z",
+            "lastModifiedDate": "2025-06-30T23:30:01.070Z",
+            "recipient": "nuno.sousa@ext.ec.europa.eu",
+            "sourceId": "d4121c40-93eb-4544-ab27-9e02ea5c3eba",
+            "tags": [],
+            "localizations": [
+                {
+                    "language": "en",
+                    "subject": "OTG - Monthly statistics report of 2025-07-01 01:30:00 - dev",
+                    "body": {
+                        "content": "Monthly statistics report of 2025-07-01 01:30:00",
+                        "url": ""
+                    },
+                    "summary": ""
+                }
+            ],
+            "indexName": "cns_notification_acc-2025-07-01"
+        }
+    ]
+}

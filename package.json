@@ -1,0 +1,12 @@
+{
+    "name": "otg-poc",
+    "version": "1.1.1",
+    "license": "GPL-3.0 license",
+    "scripts": {
+        "ng": "ng",
+        "start": "node server.js"
+    },
+    "private": false,
+    "dependencies": {},
+    "devDependencies": {}
+}
