@@ -5,7 +5,7 @@ const low = require("lowdb");
 const FileAsync = require("lowdb/adapters/FileAsync");
 const adapter = new FileAsync("mock/db/db.json");
 const db = low(adapter);
-const port = 80;
+const port = 443;
 
 app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
